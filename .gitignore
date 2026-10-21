@@ -1,0 +1,7 @@
+obj/
+quash
+Makefile~
+results.txt
+.valgrind_expected.txt
+test-cases/t*/
+test-cases/test-setup/delayed_echo

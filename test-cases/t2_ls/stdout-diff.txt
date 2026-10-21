@@ -1,4 +1,0 @@
-3d2
-< .valgrind_expected.txt
-7a7
-> .valgrind_expected.txt
